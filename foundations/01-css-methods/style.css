@@ -1,0 +1,8 @@
+div {
+  backgroundcolor: red;
+  color: white;
+  font-size: 32px;
+  .centre{
+    left: 50%;
+  }
+}
